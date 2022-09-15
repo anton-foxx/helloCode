@@ -1,0 +1,15 @@
+D:\implementator\C#\lesson1\lesson1.4_Div\bin\Debug\net6.0\lesson1.4_Div.exe
+D:\implementator\C#\lesson1\lesson1.4_Div\bin\Debug\net6.0\lesson1.4_Div.deps.json
+D:\implementator\C#\lesson1\lesson1.4_Div\bin\Debug\net6.0\lesson1.4_Div.runtimeconfig.json
+D:\implementator\C#\lesson1\lesson1.4_Div\bin\Debug\net6.0\lesson1.4_Div.dll
+D:\implementator\C#\lesson1\lesson1.4_Div\bin\Debug\net6.0\lesson1.4_Div.pdb
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.csproj.AssemblyReference.cache
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.AssemblyInfoInputs.cache
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.AssemblyInfo.cs
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.csproj.CoreCompileInputs.cache
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.dll
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\refint\lesson1.4_Div.dll
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.pdb
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\lesson1.4_Div.genruntimeconfig.cache
+D:\implementator\C#\lesson1\lesson1.4_Div\obj\Debug\net6.0\ref\lesson1.4_Div.dll
