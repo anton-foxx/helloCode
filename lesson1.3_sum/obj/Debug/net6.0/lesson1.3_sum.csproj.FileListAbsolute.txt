@@ -1,0 +1,15 @@
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.csproj.AssemblyReference.cache
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.AssemblyInfoInputs.cache
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.AssemblyInfo.cs
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.csproj.CoreCompileInputs.cache
+D:\implementator\C#\lesson1\lesson1.3_sum\bin\Debug\net6.0\lesson1.3_sum.exe
+D:\implementator\C#\lesson1\lesson1.3_sum\bin\Debug\net6.0\lesson1.3_sum.deps.json
+D:\implementator\C#\lesson1\lesson1.3_sum\bin\Debug\net6.0\lesson1.3_sum.runtimeconfig.json
+D:\implementator\C#\lesson1\lesson1.3_sum\bin\Debug\net6.0\lesson1.3_sum.dll
+D:\implementator\C#\lesson1\lesson1.3_sum\bin\Debug\net6.0\lesson1.3_sum.pdb
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.dll
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\refint\lesson1.3_sum.dll
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.pdb
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\lesson1.3_sum.genruntimeconfig.cache
+D:\implementator\C#\lesson1\lesson1.3_sum\obj\Debug\net6.0\ref\lesson1.3_sum.dll
