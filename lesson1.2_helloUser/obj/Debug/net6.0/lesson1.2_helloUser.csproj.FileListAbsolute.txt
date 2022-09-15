@@ -1,0 +1,15 @@
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\bin\Debug\net6.0\lesson1.2_helloUser.exe
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\bin\Debug\net6.0\lesson1.2_helloUser.deps.json
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\bin\Debug\net6.0\lesson1.2_helloUser.runtimeconfig.json
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\bin\Debug\net6.0\lesson1.2_helloUser.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\bin\Debug\net6.0\lesson1.2_helloUser.pdb
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.csproj.AssemblyReference.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.AssemblyInfoInputs.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.AssemblyInfo.cs
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.csproj.CoreCompileInputs.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\refint\lesson1.2_helloUser.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.pdb
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\lesson1.2_helloUser.genruntimeconfig.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\lesson1.2_helloUser\obj\Debug\net6.0\ref\lesson1.2_helloUser.dll
