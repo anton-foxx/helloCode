@@ -1,0 +1,15 @@
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\bin\Debug\net6.0\lesson1.1_helloConsole.exe
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\bin\Debug\net6.0\lesson1.1_helloConsole.deps.json
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\bin\Debug\net6.0\lesson1.1_helloConsole.runtimeconfig.json
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\bin\Debug\net6.0\lesson1.1_helloConsole.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\bin\Debug\net6.0\lesson1.1_helloConsole.pdb
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.csproj.AssemblyReference.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.AssemblyInfoInputs.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.AssemblyInfo.cs
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.csproj.CoreCompileInputs.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\refint\lesson1.1_helloConsole.dll
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.pdb
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\lesson1.1_helloConsole.genruntimeconfig.cache
+D:\implementator\C#\lesson1\lesson1.1_helloConsole\obj\Debug\net6.0\ref\lesson1.1_helloConsole.dll
